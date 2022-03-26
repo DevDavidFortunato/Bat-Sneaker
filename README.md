@@ -1,4 +1,4 @@
-# Tenis Morcego
+# Tenis Morcego - Bat Sneaker
 
 [PT-BR] Protótipo elaborado para trabalho de conclusão de curso de eletricista de manutenção.
 O objetivo deste projeto é, de forma barata, facilitar a locomoção de deficientes visuais através de sensores ultra sônicos implantados na ponta do tênis. O arduíno interpreta os sinais dos sensores convertendo-os em pulsos de vibrações notificando o portador da eventual presença de obstáculos à frente.
